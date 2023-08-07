@@ -50,7 +50,7 @@ By testing and analyzing these hypotheses through data exploration and modeling 
 Let's start our journey by collecting and exploring the data to uncover valuable insights for our rental bike project!
 
 
-##### We have two datasets named bikeshare and divvtbikes. In the following, we will examine these two.
+#### We have two datasets named bikeshare and divvtbikes. In the following, we will examine these two.
 
 Here we have some statical reports on both dataset.
 
@@ -80,7 +80,7 @@ daily (divvybikes):
     {% include figure.html path="Img\d5.png" class="img-fluid rounded z-depth-1" %}
 
 
-Graph creation is an important step but before this cell we have to have some steps such as Edge creation, Static & dynamic edges and etc.
+Graph creation is an important step but before this cell we have to take some steps such as Edge creation, Static & dynamic edges and etc.
 
 Now we create a dataset object for temporal signals defined on a dynamic graph.
 {% raw %}
